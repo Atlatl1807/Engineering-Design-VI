@@ -14,12 +14,14 @@ This is an **assignment** for *Stevens*
 
 ```
 git status
+
 git add
 git commit
 ```
 
 ---
 
-[title](https://github.com/Atlatl1807/Engineering-Design-VI](https://github.com/Atlatl1807/Engineering-Design-VI/)
+[link](https://www.stevens.edu/)
 
-![photo](https://files.catbox.moe/vm4kdi.png)
+![kasane-teto-tetris](https://github.com/user-attachments/assets/d169cf12-0422-4c13-8f93-10fa9d8e2955)
+
